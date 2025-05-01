@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio [VIEW WEBSITE](https://bhaswanth.netlify.app)
 
-- 📄 Resume [OPEN RESUME](https://drive.google.com/file/d/1fByOTC5Y6Pnq4Iy4SF3QQZ6P8nY1sqJ3/view?usp=drive_link)
+- 📄 Resume [OPEN RESUME](https://drive.google.com/file/d/1W4Hpytj6jT6flt8y1wDarRuPs5e7PS5L/view?usp=sharing)
 
 - ⚡ Fun fact **I’ve spent more time debugging code than actually writing it.**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
